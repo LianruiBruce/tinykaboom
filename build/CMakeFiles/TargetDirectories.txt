@@ -1,0 +1,3 @@
+D:/myProject/tinykaboom/build/CMakeFiles/tinykaboom.dir
+D:/myProject/tinykaboom/build/CMakeFiles/ALL_BUILD.dir
+D:/myProject/tinykaboom/build/CMakeFiles/ZERO_CHECK.dir
